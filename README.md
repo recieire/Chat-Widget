@@ -2,23 +2,23 @@
 
 <h3 align="center">Chat Widget</h3>
 
-<p align="center">Este trabalho foi desenvolvido na Next Level Week (NLW#05) da Rocketseat.</p>
+<p align="center">Este projeto foi desenvolvido durante a Next Level Week (NLW#05) promovida pela Rocketseat.</p>
 
 <p align="center">
   <a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#preview">Visualização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#requires">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#install">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#install">Instalação</a>
 </p>
 
 ## Sobre <a name="about"></a>
 
-> O projeto trata-se de um canal de atendimento em tempo real entre cliente e suporte utilizando protocolo websocket e API REST.
+> Trata-se de um canal de atendimento em tempo real entre cliente e suporte utilizando protocolo websocket e API REST.
 
 <br>
 
-## :heavy_check_mark: Tecnologias <a name="technologies"></a>
+## Tecnologias :heavy_check_mark:<a name="technologies"></a>
 - [Socket.IO](https://socket.io)
 - [SQLite](https://www.npmjs.com/package/sqlite3)
 - [Express](https://expressjs.com/pt-br/)
@@ -34,12 +34,12 @@
     <th>Painel Atendente</th>
   </tr>
   <tr>
-    <td><img src="./.github/cliente.gif" width=1000px /></td></td>
-    <td><img src="./.github/admin.gif" width=1000px /></td></td>
+    <td><img src="./.github/cliente.gif" width=1500px /></td></td>
+    <td><img src="./.github/admin.gif" width=1500px /></td></td>
   </tr>
 </table>
 
-## :warning: Requisitos <a name="requires"></a>
+## Requisitos :warning:<a name="requires"></a>
 
 * [node V14.16](https://nodejs.org/pt-br/download/)
 * [yarn v3.0](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
