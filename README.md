@@ -1,6 +1,6 @@
 # Chat Widget :speech_balloon:
 
-<h3 align="center">Chat Widget</h3>
+<img src="./.github/NLW5.png" />
 
 <p align="center">Este projeto foi desenvolvido durante a Next Level Week (NLW#05) promovida pela Rocketseat.</p>
 
@@ -34,8 +34,8 @@
     <th>Painel Atendente</th>
   </tr>
   <tr>
-    <td><img src="./.github/cliente.gif" width=1500px /></td></td>
-    <td><img src="./.github/admin.gif" width=1500px /></td></td>
+    <td><img src="./.github/cliente.gif" /></td></td>
+    <td><img src="./.github/admin.gif" /></td></td>
   </tr>
 </table>
 
@@ -56,7 +56,7 @@ $ yarn typeorm migration:run
 # Iniciar o projeto em localhost:
 $ yarn dev
 ```
-## Futuras melhorias
+## To do
 
 * [ ] Permitir finalização do chamado
 * [ ] Incluir botão para minimizar o chat
