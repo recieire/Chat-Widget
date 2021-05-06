@@ -5,20 +5,21 @@
 <p align="center">Este projeto foi desenvolvido durante a Next Level Week (NLW#05) promovida pela Rocketseat.</p>
 
 <p align="center">
-  <a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <!-- <a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
   <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#preview">Visualização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#requires">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#install">Instalação</a>
+  <a href="#install">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#todo">To do</a>
 </p>
 
 ## Sobre <a name="about"></a>
 
-> Trata-se de um canal de atendimento em tempo real entre cliente e suporte utilizando protocolo websocket e API REST.
+> Trata-se de um canal de atendimento em tempo real entre cliente e suporte utilizando protocolo websocket.
 
 <br>
 
-## Tecnologias :heavy_check_mark:<a name="technologies"></a>
+## Tecnologias <a name="technologies"></a>
 - [Socket.IO](https://socket.io)
 - [SQLite](https://www.npmjs.com/package/sqlite3)
 - [Express](https://expressjs.com/pt-br/)
@@ -56,7 +57,7 @@ $ yarn typeorm migration:run
 # Iniciar o projeto em localhost:
 $ yarn dev
 ```
-## To do
+## To do :heavy_check_mark:<a name="todo"></a>
 
 * [ ] Permitir finalização do chamado
 * [ ] Incluir botão para minimizar o chat
